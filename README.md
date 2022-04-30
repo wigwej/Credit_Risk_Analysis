@@ -7,7 +7,7 @@ This project seeks to apply machine learning to solve risks inherent in credit c
 
 ***Results***
 
-***Using naive random oversampling technique:
+***Using naive random oversampling technique:***
 
 The dataset showed an accuracy score of approximately 50%
 
