@@ -42,4 +42,4 @@ Minority were classified as high risk with a low precison score of 0.07 and a hi
 
 **Summary**
 
-Using SMOTEENN technique, some of the metrics,such as the recall values and F1, showed improvement over undersampling. The Easy Ensemble technique regsitered a high accuracy value and therfore highly recommended.
+Using SMOTEENN technique, some of the metrics,such as the recall values and F1, showed improvement over undersampling. The Easy Ensemble technique regsitered a high accuracy value and therefore highly recommended.
