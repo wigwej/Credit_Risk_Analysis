@@ -4,7 +4,6 @@
 
 This project seeks to apply machine learning to solve risks inherent in credit card classification problems of good loans versus bad loans. Using credit card credit dataset from LendingClub, a peer- to-peer lending services, we would deploy techinques to evaluate and train our unbalanced dataset with a view to making predictions and solve credit card risk. We will oversample using Random Over Sampler and SMOTE algorithms, undersample using clustercentroid algorithm; we would use a combination of both oversampling and undersampling by deploying SMOTEENN algorithm, and finally we would use Balanced Random Forent Classifier and Easy Esemble Classifier algorithms to reduce the elemnet of bias and predict credit risk.
 
-
 **Results**
 
  ***Using naive random oversampling technique:***
@@ -42,4 +41,5 @@ Majority were low risk with a precision score of 1.0, recall value of 0.94 and a
 Minority were classified as high risk with a low precison score of 0.07 and a high recall value of 0.91 and a low f1 value of 0.14.
 
 **Summary**
-Unders SMOTEENN, some of the metrics,such as the recall values and F1, showed improvement over undersampling. The Easy Ensemble technique regsitered a high accuracy value and therfore highly recommended.
+
+Using SMOTEENN technique, some of the metrics,such as the recall values and F1, showed improvement over undersampling. The Easy Ensemble technique regsitered a high accuracy value and therfore highly recommended.
